@@ -1,0 +1,10 @@
+{
+  "name": "com.kidonaru.majiang-ai-unity",
+  "displayName": "Majiang AI",
+  "version": "1.0.8-preview",
+  "description": "Electronic Mahjong Thinking Routine",
+  "documentationUrl": "https://github.com/kobalab/majiang-ai",
+  "dependencies": {
+    "com.kidonaru.majiang-core-unity": "1.1.2-preview"
+  }
+}
